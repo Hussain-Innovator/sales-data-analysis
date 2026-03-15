@@ -1,7 +1,8 @@
 streamlit==1.25.0
-pandas
-numpy
-matplotlib
-seaborn
+pandas>=2.0.0
+numpy>=1.26.0
+matplotlib>=3.10.0
+seaborn>=0.13.0
 altair==4.2.2
 zipp==3.23.0
+pillow>=9.5.0
