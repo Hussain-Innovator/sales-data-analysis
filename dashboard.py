@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import altair as alt
+from altair.vegalite.v4.api import Chart
 
 st.title("Superstore Sales Dashboard")
 

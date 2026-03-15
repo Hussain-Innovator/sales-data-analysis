@@ -1,4 +1,7 @@
+streamlit==1.25.0
 pandas
+numpy
 matplotlib
 seaborn
-streamlit
+altair==4.2.2
+zipp==3.23.0
